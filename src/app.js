@@ -5,6 +5,7 @@ import { database } from './config/database.js'; // asegúrate de exportar datab
 import 'dotenv/config';
 const app = express();
 
+
 const port = process.env.PORT || 3000;
 
 
